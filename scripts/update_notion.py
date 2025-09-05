@@ -79,12 +79,18 @@ def main():
         raise SystemExit("Missing NOTION_TOKEN or NOTION_DATABASE_ID")
 
     changed = [x.strip() for x in CHANGED_FILES.splitlines() if x.strip()]
-    # Filter to only stuff that looks like problem files
-    interesting_exts = {".py", ".cpp", ".cc", ".c", ".java", ".js", ".ts", ".go", ".rs", ".kt", ".swift", ".rb", ".md"}
+
+    interesting_exts = {
+        ".py", ".cpp", ".cc", ".c", ".java", ".js", ".ts", ".go",
+        ".rs", ".kt", ".swift", ".rb", ".md"
+    }
+    skip_files = {"readme.md", "notes.md"}  # add more junk if needed
+
     files = []
     for path in changed:
         ext = os.path.splitext(path)[1].lower()
-        if ext in interesting_exts and "README" in os.path.basename(path).upper() or ext in interesting_exts:
+        base = os.path.basename(path).lower()
+        if ext in interesting_exts and base not in skip_files:
             files.append(path)
 
     slugs = set()
