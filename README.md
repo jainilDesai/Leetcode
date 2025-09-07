@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jainilDesai/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainilDesai/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jainilDesai/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/jainilDesai/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/jainilDesai/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jainilDesai/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainilDesai/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jainilDesai/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/jainilDesai/Leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jainilDesai/Leetcode/tree/master/0155-min-stack) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/jainilDesai/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
