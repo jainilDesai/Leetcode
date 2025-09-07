@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainilDesai/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jainilDesai/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/jainilDesai/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/jainilDesai/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jainilDesai/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/jainilDesai/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/jainilDesai/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainilDesai/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
