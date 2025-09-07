@@ -32,7 +32,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install deps
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run sync
@@ -40,4 +40,5 @@ jobs:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
           CHANGED_FILES: ${{ env.CHANGED_FILES }}
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
         run: python scripts/update_notion.py
