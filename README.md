@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jainilDesai/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainilDesai/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/jainilDesai/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainilDesai/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jainilDesai/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
