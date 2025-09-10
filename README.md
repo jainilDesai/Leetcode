@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainilDesai/Leetcode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/jainilDesai/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/jainilDesai/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/jainilDesai/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jainilDesai/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainilDesai/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jainilDesai/Leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/jainilDesai/Leetcode/tree/master/0146-lru-cache) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jainilDesai/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jainilDesai/Leetcode/tree/master/0155-min-stack) |
 ## Sorting
 |  |
@@ -101,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jainilDesai/Leetcode/tree/master/0014-longest-common-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jainilDesai/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
