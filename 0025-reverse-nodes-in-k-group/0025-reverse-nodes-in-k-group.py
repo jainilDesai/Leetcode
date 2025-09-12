@@ -4,32 +4,32 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    def getKth(self, curr, k):
+        while curr and k > 0:
+            curr = curr.next
+            k -= 1
+        return curr
+
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        groupPrev = dummy
+        grpPrev = dummy
 
         while True:
-            kth = self.getKth(groupPrev, k)
+            kth = self.getKth(grpPrev, k)
             if not kth:
                 break
-            groupNext = kth.next
+            grpNext = kth.next
 
-            # reverse group
-            prev, curr = groupNext, groupPrev.next
-
-            while curr != groupNext:
+            # reverse grp
+            prev, curr = grpNext, grpPrev.next
+            while curr != grpNext:
                 tmp = curr.next
                 curr.next = prev
                 prev = curr
                 curr = tmp
             
-            tmp = groupPrev.next
-            groupPrev.next = kth
-            groupPrev = tmp
+            # map grpPrev pointer
+            tmp = grpPrev.next
+            grpPrev.next = kth
+            grpPrev = tmp
         return dummy.next
-    
-    def getKth(self, curr, k):
-        while k > 0 and curr:
-            curr = curr.next
-            k -= 1
-        return curr
