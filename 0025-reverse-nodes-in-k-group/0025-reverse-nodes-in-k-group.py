@@ -15,7 +15,7 @@ class Solution:
             groupNext = kth.next
 
             # reverse group
-            prev, curr = kth.next, groupPrev.next
+            prev, curr = groupNext, groupPrev.next
 
             while curr != groupNext:
                 tmp = curr.next
