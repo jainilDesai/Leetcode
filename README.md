@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/jainilDesai/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jainilDesai/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainilDesai/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainilDesai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jainilDesai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainilDesai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/jainilDesai/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jainilDesai/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jainilDesai/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/jainilDesai/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainilDesai/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jainilDesai/Leetcode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/jainilDesai/Leetcode/tree/master/0146-lru-cache) |
 ## Sliding Window
 |  |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/jainilDesai/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jainilDesai/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jainilDesai/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jainilDesai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jainilDesai/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -171,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/jainilDesai/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jainilDesai/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainilDesai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jainilDesai/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jainilDesai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jainilDesai/Leetcode/tree/master/0226-invert-binary-tree) |
