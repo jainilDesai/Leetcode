@@ -5,14 +5,8 @@ class Solution:
         sMap = {}
         tMap = {}
         for ch in s:
-            if ch in sMap:
-                sMap[ch] += 1
-            else: 
-                sMap[ch] = 1
+            sMap[ch] = sMap.get(ch, 0) + 1
         for ch in t:
-            if ch in tMap:
-                tMap[ch] += 1
-            else:
-                tMap[ch] = 1
+            tMap[ch] = tMap.get(ch, 0) + 1
         return sMap == tMap
             
