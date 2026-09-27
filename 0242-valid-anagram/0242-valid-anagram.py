@@ -14,7 +14,5 @@ class Solution:
                 tMap[ch] += 1
             else:
                 tMap[ch] = 1
-        if sMap == tMap:
-            return True
-        return False
+        return sMap == tMap
             
