@@ -10,7 +10,7 @@ class Solution:
         for num, freq in count.items():
             freq_arr[freq].append(num)
         result = []
-        for bucket in freq_arr[::-1]:
+        for bucket in reversed(freq_arr):
             for num in bucket:
                 result.append(num)
                 if len(result) == k:
