@@ -6,12 +6,11 @@ class Solution:
         length = 1
         
         for num in s:
-            current = 1
             if num - 1 not in s:
-                while num + 1 in s:
-                    current += 1
-                    num = num + 1
-            length = max(length, current)
-        return max(length, current)
+                end = num 
+                while end + 1 in s:
+                    end += 1
+                length = max(length, end - num + 1)
+        return length
             
             
